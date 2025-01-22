@@ -1,0 +1,22 @@
+# E-Library System
+
+## Overview
+The E-Library System is a digital platform that allows users to view, borrow, and return books from an online library. The system supports user authentication and provides an option to create new accounts for personalized access.
+
+## Features
+- **View Books**: Browse a list of books available in the library.
+- **Borrow Books**: Borrow a book from the library (if not already borrowed).
+- **Return Books**: Return borrowed books to the library.
+- **Account Creation**: Create a new user account with a username and password.
+- **Authentication**: Secure login system with username and password.
+
+## Technologies Used
+- **Java**: Programming language used for the development.
+- **Gson**: For fetching book data from the Open Library API (optional).
+- **Scanner**: For user input handling.
+
+## Setup & Installation
+
+### 1. Clone the Repository:
+```bash
+git clone https://github.com/your-repository-link
